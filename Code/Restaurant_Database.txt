@@ -1,0 +1,54 @@
+Vegetable Samosa (2 pcs),45
+Chicken Samosa (2 pcs),55
+Paneer Pakora,80
+Onion Pakora,60
+Aloo Tikki (2 pcs),70
+Dahi Vada (2 pcs),65
+Samosa Chaat,90
+Papri Chaat,85
+Dahi Bhalla Chaat,110
+Aloo Tikki Chaat,100
+Tandoori Chicken,180
+Chicken Tikka,190
+Fish Tikka,220
+Seekh Kebab,200
+Paneer Tikka,170
+Tomato Shorba,70
+Cream of Tomato Soup,85
+Vegetable Soup,80
+Chicken Noodle Soup,95
+Mushroom Soup,90
+Indian Salad (Cucumber, Tomato, Onion, Coriander),120
+Raita,50
+Butter Chicken,320
+Chicken Tikka Masala,340
+Saagwala Chicken,350
+Kadai Chicken,330
+Malai Kofta,300
+Paneer Butter Masala,310
+Palak Paneer,300
+Navratan Korma,320
+Dal Makhani,280
+Malai Kofta,300
+Chana Masala,270
+Aloo Gobi,250
+Vegetable Biryani,280
+Chicken Biryani,320
+Mutton Biryani,380
+Plain Naan,40
+Butter Naan,50
+Garlic Naan,50
+Cheese Naan,60
+Tandoori Roti,45
+Jeera Rice,120
+Steamed Rice,100
+Gulab Jamun (2 pcs),120
+Gajar ka Halwa,150
+Jalebi (4 pcs),100
+Falooda,130
+Kheer,110
+Mango Lassi,80
+Butter Milk,60
+Chaas,70
+Coke (500 ml),40
+Mineral Water,30

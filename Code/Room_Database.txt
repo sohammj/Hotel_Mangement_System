@@ -1,0 +1,6 @@
+Single,5000,10
+Double,7500,15
+Twin,7500,0
+Queen,10000,8
+King,12500,5
+Suite,17500,3
